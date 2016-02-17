@@ -3,7 +3,7 @@
 ## Instructions:
 
   1. Create a PHP based REST API based on the functional requirements below
-  2. From a fork of this exact same repo, send a link to your work. (if you dont have a github account, it has to be created)
+  2. From a fork of this exact same repo, send a link to your work to info@pragmanila.com .(If you dont have a github account, it has to be created)
 
 ## Functional Requirements:
   1. The REST API should serve the following routes:
